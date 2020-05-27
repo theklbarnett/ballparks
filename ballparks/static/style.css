@@ -1,3 +1,29 @@
+
+/*home*/
+
+#skin{
+        background-color: lightgray;
+        width: 100%;
+        height: 100%;
+
+}
+#wrapper{
+
+        margin: 0px auto;
+        background-color: #F5F5F5;
+        width: 90%;
+        height: 95%;
+        font-family: sans-serif;
+        padding: 25px;
+}
+#title{
+        text-align: center;
+        font-size: large;
+        background-color:#ffffff ;
+        border: 5px solid #003a66;
+        
+}
+
 #map {
     display: inline-block;
 }
@@ -6,6 +32,36 @@
     display: inline-block;
 }
 
+#MLB_logo{
+
+        width: 175px;
+        height: 100px;
+        position: absolute;
+        top: 33px;
+        left: 90px;
+        
+}
+#league_logo{
+        width: 175px;
+        height: 100px;
+        position: absolute;
+        top: 33px;
+        right: 90px;
+        font-size: 18px;
+
+
+}
+#team_input_box{
+        width: 600px;
+        height: 400px;
+        background-color: #003a66;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+        margin-left: 200px;
+        margin-top: 200px;
+       
+}
 
 
 #login_wrapper{ 
