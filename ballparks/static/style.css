@@ -26,10 +26,18 @@
 
 #map {
     display: inline-block;
+    width: 600px;
+    height: 400px;
+    margin-top: 200px;
 }
 
 #team_dropdown_list {
     display: inline-block;
+    background-color:#F5F5F5 ;
+    border: 10px solid #b30000;
+    text-align: center;
+    margin-top: 100px;
+    padding: 50px;
 }
 
 #MLB_logo{
